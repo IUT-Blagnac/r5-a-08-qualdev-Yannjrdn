@@ -22,7 +22,7 @@ public class StepDefinitions {
 
 
 
-
+    //gestion des scénarios de is_it_friday_yet 
     private String today;
     private String actualAnswer;
 
@@ -32,7 +32,7 @@ public class StepDefinitions {
 
     @Given("today is {string}")
     public void today_is(String day) {
-        today = day;
+        today = day; 
     }
 
     
