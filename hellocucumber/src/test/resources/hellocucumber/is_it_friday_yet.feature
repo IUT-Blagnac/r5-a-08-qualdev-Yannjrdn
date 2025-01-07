@@ -9,5 +9,5 @@ Feature: Is it Friday yet?
     Examples:
       | day            | answer |
       | Friday         | TGIF   |
-      | Sunday         | Nope   |
+      | Sunday         | Nope   | 
       | SuperMario     | Nope   |
