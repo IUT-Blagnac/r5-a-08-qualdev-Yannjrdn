@@ -28,5 +28,6 @@ Feature: Is it Friday yet?
 image::avec titre.png[width=80%]
 
 == TP2...
-image::tp21.png
-image::tp22.png
+.capture d'encrant TP2
+image::tp21.png[width=80%]
+image::tp22.png[width=80%]
