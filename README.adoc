@@ -28,5 +28,5 @@ Feature: Is it Friday yet?
 image::avec titre.png[width=80%]
 
 == TP2...
-image::TP21.png
-image::TP22.png
+image::tp21.png
+image::tp22.png
