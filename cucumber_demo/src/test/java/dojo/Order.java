@@ -13,7 +13,6 @@ public class Order {
     }
 
     public void declareOwner(String string) {
-        // TODO Auto-generated method stub
         this.owner = string;
     }
 
